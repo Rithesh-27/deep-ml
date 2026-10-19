@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T12:55:57.582Z",
+  "generated_at": "2026-10-19T13:08:41.174Z",
   "items": {
     "math:62": {
       "kind": "math",
@@ -33,6 +33,19 @@
       "path": "math/0064-roofline-time-is-the-max-of-bytes-bw-and-flops-peak",
       "first_solved_at": "2026-10-19T12:55:56.842Z",
       "last_pushed_at": "2026-10-19T12:55:56.842Z"
+    },
+    "problem:411": {
+      "kind": "problem",
+      "id": "411",
+      "title": "Compute TTFT ITL and TPS from a Token Timestamp Stream",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/411",
+      "path": "problems/0411-compute-ttft-itl-and-tps-from-a-token-timestamp-stream",
+      "first_solved_at": "2026-10-19T13:08:40.605Z",
+      "last_pushed_at": "2026-10-19T13:08:40.605Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
